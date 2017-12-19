@@ -1,1 +1,1 @@
-Creating a new branch is quick.aaa£¬bbb,ccc,ddd,eee
+Creating a new branch is quick.
